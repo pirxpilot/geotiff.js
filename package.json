@@ -9,8 +9,9 @@
     "image",
     "raster"
   ],
-  "main": "dist/main.js",
+  "main": "index.js",
   "dependencies": {
+    "esm": "^3.2.3",
     "pako": "^1.0.3",
     "xmldom": "0.1.*"
   },
